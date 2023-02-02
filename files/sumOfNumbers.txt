@@ -1,0 +1,5 @@
+Algorithm: To find sum of two numbers
+Step 1 : Read A, B variable
+Step 2 : Let sum = A + b 
+Step 3 : Print sum
+Step 4 : Stop.
